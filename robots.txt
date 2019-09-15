@@ -1,0 +1,2 @@
+﻿User-agent: *
+Sitemap: https://academstudio.itsinsta.site/sitemap.xml
